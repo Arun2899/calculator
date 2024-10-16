@@ -1,0 +1,47 @@
+h1
+{
+ color: white;
+ position: relative;
+ 
+ left: 550px;
+ font-size: 50px;
+ font-family: 'Times New Roman', Times, serif;
+}
+
+.num
+{
+    
+    width: 400px;
+    height: 40px;
+    position: relative;
+    top:-30px;
+    left: 500px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 2px;
+    font-size: xx-large;
+    color: black;
+    border: 3px solid black;
+    text-align: right;
+}
+input
+{
+    padding: 30px;
+    width: 130px;
+    position: relative;
+    top: -20px;
+    left: 500px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid black;
+    
+}
+
+
+
+
+
+
+
